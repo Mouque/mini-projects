@@ -295,7 +295,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 391.5, y: 202.1}
+  m_AnchoredPosition: {x: 391.5, y: 211}
   m_SizeDelta: {x: 90.9555, y: 32}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &32925488
@@ -318,7 +318,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "precisamos somar ambos os n\xFAmeros do outro lado para manter a igualdade"
+  m_text: "Somamos ambos os valores tamb\xE9m no 2\xBA membro para n\xE3o alterar
+    a igualdade"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1550,7 +1551,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -285.28085, y: 44}
+  m_AnchoredPosition: {x: -285.28085, y: 33}
   m_SizeDelta: {x: 122.3218, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &307561552
@@ -1573,7 +1574,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: resolvendo a soma e fatorando...
+  m_text: "Fatorando os dois trin\xF4mios quadrados perfeitos"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
